@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "proj/src/github.com/convert"
 
 func main() {
-	fmt.Println("Hello, hell")
+	convert.Dialogue()
 }
